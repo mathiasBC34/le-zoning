@@ -1,0 +1,67 @@
+body{
+    width: 500px;
+    height: 650px;
+}
+
+header{
+    background-color: orange;
+    width: 100%;
+    height: 10%;
+}
+
+.navbar{
+    background-color: blue;
+    width: 100%;
+    height: 5%;
+}
+.navbar_liste{
+    list-style: none;
+}
+
+.navbar_liste{
+    list-style: none;
+    text-align: center;
+    margin-top: 5%;
+}
+
+.container{
+    width: 35%;
+    height: 70%;
+    background-color:rgb(0, 0, 0);
+}
+.prem_art{
+    width: 80%;
+    height: 40%;
+    background-color: black;
+    margin-bottom: 15px;
+}
+
+.deux_art{
+    width: 80%;
+    height: 40%;
+    background-color: blue;
+}
+.deux_art div{
+    width: 60%;
+    height: 100%;
+    background-color: aliceblue;
+}
+.deux_art aside{
+    width: 35%;
+    height: 100%;
+    background-color: brown;
+    float: right;
+}
+
+aside{
+    width: 25%;
+    height: 70%;
+    background-color: red;
+    float: right;
+}
+
+footer{
+    width: 100%;
+    height: 20%;
+    background-color: darkslategray;
+}

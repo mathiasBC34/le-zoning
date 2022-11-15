@@ -1,0 +1,97 @@
+body{
+   border: 1rem solid black;
+   margin-left: 32.69%;
+   margin-right: 32.69%;
+   
+}
+
+header{
+    width: 500px;
+    height: 60px;
+    background-color: coral;
+    text-align: center;
+    border: 1px solid black;
+}
+
+#yo{
+    position: absolute;
+    text-align: center;
+    width: 500px;
+    
+}
+
+nav{
+    margin-top: 15px;
+    width: 500px;
+    height: 30px;
+    background-color: cadetblue;
+    text-align: left, center;
+    border: 1px solid black;
+}
+
+#ya{
+    width: 500px;
+    height: 30px;
+    position: absolute;
+    transform:translate(90px,0);
+    margin-top: -15px;
+}
+
+section{
+    background-color: gray;
+    width: 350px;
+    height: 280px;
+    margin-top: 15px;
+    border: 1px solid black;
+}
+
+footer{
+    margin-top: 15px;
+    width: 500px;
+    height: 60px;
+    background-color: rgb(97, 181, 97);
+    border: 1px solid black;
+}
+
+article{
+    height:110px;
+    width: 280px;
+    background-color: blue;
+    object-position: center;
+    transform: translate(30px, 0);
+    border: 1px solid black;
+    margin-bottom: 10px;
+    
+}
+#box{
+    width: 130px;
+    height: 280px;
+    background-color: rgb(225, 126, 77);
+    transform: translate(220px, 0);
+    margin-left: 150px;
+    margin-bottom: 200px;
+    position: absolute;
+    margin-top: 15px;
+    border: 1px solid black;
+}
+
+#lela{
+    width: 90px;
+    height: 110px;
+    background-color:rgb(225, 126, 77);
+    transform: translate(220px, 0);
+    position: absolute;
+    border: 1px solid black;
+
+
+}
+
+#bac{
+    width: 170px;
+    height: 110px;
+    background-color:rgb(55, 0, 255);
+    transform: translate(30px, 0);
+    margin-bottom: -113px;
+    border: 1px solid black;
+
+}
